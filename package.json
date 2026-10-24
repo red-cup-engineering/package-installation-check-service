@@ -17,7 +17,7 @@
     "node": ">=22"
   },
   "devDependencies": {
-    "@red-cup-engineering/jsnode-package-engineering-services-section": "workspace:*"
+    "@red-cup-engineering/jsnode-package-services-section": "workspace:*"
   },
   "repository": {
     "type": "git",
